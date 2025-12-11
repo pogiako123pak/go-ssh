@@ -146,7 +146,9 @@ func (a *App) loadKeys() error {
 // showListView shows the list view
 func (a *App) showListView() {
 	// Reload keys to show any newly created keys
-	a.loadKeys()
+	if err := a.loadKeys(); err != nil {
+		a.statusBar.Error(fmt.Sprintf("Failed to load keys: %v", err))
+	}
 
 	a.pages.SwitchToPage("list")
 	a.app.SetFocus(a.listView)
