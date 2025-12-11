@@ -39,14 +39,14 @@ dev: ## Run the application in development mode
 
 test: ## Run tests
 	@echo "Running tests..."
-	@go test -v -race -coverprofile=coverage.out ./...
-	@go tool cover -html=coverage.out -o coverage.html
+	@go test -v -race -coverprofile=coverage.txt ./...
+	@go tool cover -html=coverage.txt -o coverage.html
 	@echo "Coverage report: coverage.html"
 
 clean: ## Clean build artifacts
 	@echo "Cleaning..."
 	@rm -rf $(BUILD_DIR)
-	@rm -f coverage.out coverage.html
+	@rm -f coverage.txt coverage.html
 	@echo "Done"
 
 fmt: ## Format code
